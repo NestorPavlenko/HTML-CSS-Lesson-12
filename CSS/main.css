@@ -1,0 +1,1823 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main_box {
+  width: 1440px;
+  font-family: "Libre Franklin", sans-serif;
+}
+
+.header {
+  background-image: url(./Desktop/desktop_party_photo.png);
+  width: 1440px;
+  height: 700px;
+}
+
+.dreamshare {
+  color: white;
+  font-weight: bolder;
+  position: relative;
+  font-size: 20px;
+  left: 17.28%;
+  top: 6.6%;
+  width: 300px;
+}
+
+.login {
+  color: white;
+  position: relative;
+  font-size: 15px;
+  float: right;
+  right: 28%;
+  top: 3.8%;
+}
+
+.signup {
+  width: 90px;
+  height: 37px;
+  border: 3px solid white;
+  border-radius: 30px 30px 30px 30px;
+  line-height: 34px;
+  text-align: center;
+  color: white;
+  position: relative;
+  float: right;
+  font-size: 16px;
+  right: 17.3%;
+  top: 2.2%;
+}
+
+.share_your_dream {
+  width: 510px;
+  height: 110px;
+  background-image: url(/CSS/Desktop/SHARE\ YOUR.png);
+  background-repeat: no-repeat;
+  position: relative;
+  left: 34%;
+  top: 30.4%;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+  position: relative;
+  font-size: 22.8px;
+  top: 34.6%;
+}
+
+h3 {
+  display: block;
+  width: 200px;
+  height: 100px;
+  color: white;
+  text-align: center;
+  font-size: 15.5px;
+  position: relative;
+  top: 41.1%;
+  border-color: #FF4E50;
+}
+
+.holiday {
+  width: 228px;
+  height: 40px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 45px;
+  font-size: 16.4px;
+  border-radius: 30px 30px 30px 30px;
+  background-color: #FF4E50;
+  position: relative;
+  left: 42.2%;
+  top: 39%;
+}
+
+.how_dreamshare_works {
+  width: 380px;
+  height: 100px;
+  margin: auto;
+  background-image: url(/CSS/Desktop/How\ Dreamshare\ works.png);
+  background-repeat: no-repeat;
+  text-align: center;
+  position: relative;
+  top: 94px;
+  left: 21px;
+}
+
+.f_photo_section_2 {
+  background-image: url(./Desktop/desktop-laptop-photo.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 500px;
+  position: relative;
+  top: 55px;
+  left: 250px;
+}
+
+.section2_photo1_text1 {
+  width: 70px;
+  height: 20px;
+  background-color: #FF4E50;
+  line-height: 24.2px;
+  font-size: 11.4px;
+  word-spacing: 8px;
+  font-weight: lighter;
+  border-radius: 30px 30px 30px 30px;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 44%;
+  left: 8%;
+}
+
+.section2_photo1_text2 {
+  width: 200px;
+  height: 100px;
+  background-image: url(./Desktop/Sed\ leo\ enim\,\ condim.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 49%;
+  left: 8%;
+}
+
+.section2_photo1_text3 {
+  width: 270px;
+  height: 100px;
+  background-image: url(./Desktop/Quisque\ libero\ liber.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 43.8%;
+  left: 7.8%;
+}
+
+.s_photo_section_2 {
+  background-image: url(./Desktop/desktop-car-photo.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 500px;
+  position: absolute;
+  top: 855px;
+  left: 570px;
+}
+
+.section2_photo2_text1 {
+  width: 70px;
+  height: 20px;
+  background-color: #FF4E50;
+  line-height: 24px;
+  font-size: 11.4px;
+  word-spacing: 8px;
+  font-weight: lighter;
+  border-radius: 30px 30px 30px 30px;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 50.2%;
+  left: 8%;
+}
+
+.section2_photo2_text2 {
+  width: 200px;
+  height: 100px;
+  background-image: url(./Desktop/Morbi\ velit\ risus.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 55.4%;
+  left: 8%;
+}
+
+.section2_photo2_text3 {
+  width: 270px;
+  height: 100px;
+  background-image: url(./Desktop/Nulla\ venenatis\ temp.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 43.8%;
+  left: 8.6%;
+}
+
+.t_photo_section_2 {
+  background-image: url(./Desktop/desktop-bitch-photo.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 500px;
+  float: right;
+  position: absolute;
+  top: 855px;
+  right: 713px;
+}
+
+.section2_photo3_text1 {
+  width: 70px;
+  height: 20px;
+  background-color: #FF4E50;
+  line-height: 24px;
+  font-size: 11.4px;
+  word-spacing: 8px;
+  font-weight: lighter;
+  border-radius: 30px 30px 30px 30px;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 44%;
+  left: 8%;
+}
+
+.section2_photo3_text2 {
+  width: 200px;
+  height: 100px;
+  background-image: url(./Desktop/Sed\ leo\ enim\,\ condim.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 48.8%;
+  left: 8.2%;
+}
+
+.section2_photo3_text3 {
+  width: 270px;
+  height: 100px;
+  background-image: url(./Desktop/Quisque\ libero\ liber.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 43.8%;
+  left: 8.2%;
+}
+
+.meet_partner {
+  background-image: url(./Desktop/Meet\ a\ partner\ for\ y.png);
+  background-repeat: no-repeat;
+  width: 500px;
+  height: 100px;
+  position: relative;
+  left: 33.2%;
+  top: 50px;
+}
+
+.section3_photos {
+  display: flex;
+  height: 140px;
+}
+
+.f_photo_section_3 {
+  width: 200px;
+  height: 200px;
+  background-image: url(./Desktop/desktop-1st-dude.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 12px;
+  left: 21%;
+}
+
+.s_photo_section_3 {
+  width: 200px;
+  height: 200px;
+  background-image: url(./Desktop/desktop-1st-dudina.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 12px;
+  left: 23.65%;
+}
+
+.t_photo_section_3 {
+  width: 200px;
+  height: 200px;
+  background-image: url(./Desktop/desktop-2nd-dudina.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 12px;
+  left: 26.5%;
+}
+
+.fourth_photo_section_3 {
+  width: 200px;
+  height: 200px;
+  background-image: url(./Desktop/desktop-2nd-dude.png);
+  background-repeat: no-repeat;
+  position: relative;
+  top: 12px;
+  left: 29.25%;
+}
+
+.section3_text1 {
+  display: flex;
+}
+
+.section3_text1-1 {
+  position: relative;
+  top: 9.5px;
+  left: 21.1%;
+  font-weight: bolder;
+  font-size: 15.4px;
+}
+
+.section3_text1-2 {
+  position: relative;
+  top: 9.5px;
+  left: 30.2%;
+  font-weight: bolder;
+  font-size: 15.4px;
+}
+
+.section3_text1-3 {
+  position: relative;
+  top: 9.5px;
+  left: 40.2%;
+  font-weight: bolder;
+  font-size: 15.4px;
+}
+
+.section3_text1-4 {
+  position: relative;
+  top: 9.5px;
+  left: 49.1%;
+  font-weight: bolder;
+  font-size: 15.4px;
+}
+
+.section3_text2 {
+  display: flex;
+  text-align: center;
+}
+
+.section3_text2-1 {
+  width: 199px;
+  position: relative;
+  top: 28px;
+  left: 261.5px;
+  font-size: 13.3px;
+  line-height: 16px;
+  color: silver;
+}
+
+.section3_text2-2 {
+  width: 230px;
+  position: relative;
+  top: 28px;
+  left: 285.2px;
+  font-size: 13.3px;
+  line-height: 16px;
+  color: silver;
+}
+
+.section3_text2-3 {
+  width: 250px;
+  height: 150px;
+  background-image: url(./Desktop/Living\ in\ Athens\,\ Gr.png);
+  background-repeat: no-repeat;
+  position: relative;
+  left: 21.4%;
+  top: 37px;
+}
+
+.section3_text2-4 {
+  width: 220px;
+  position: relative;
+  top: 34px;
+  left: 290px;
+  text-align: center;
+  font-size: 13.3px;
+  line-height: 15px;
+  color: silver;
+}
+
+.partners {
+  width: 180px;
+  height: 40px;
+  border: 3px solid;
+  text-align: center;
+  line-height: 36px;
+  color: #FF4E50;
+  border-radius: 30px 30px 30px 30px;
+  font-size: 15px;
+  font-weight: bolder;
+  position: relative;
+  left: 43.95%;
+  bottom: 37px;
+}
+
+.discover_activitys {
+  width: 700px;
+  position: relative;
+  left: 35.7%;
+  top: 51.7px;
+  font-size: 28.55px;
+  font-weight: bolder;
+}
+
+.first_group_section4_photo {
+  display: flex;
+}
+
+.section4_photo1 {
+  background-image: url(./Desktop/photo1.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 310px;
+  position: relative;
+  left: 17.35%;
+  top: 85px;
+}
+
+.section4_photo2 {
+  background-image: url(./Desktop/photo2.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 310px;
+  position: relative;
+  left: 18.75%;
+  top: 85px;
+}
+
+.section4_photo3 {
+  background-image: url(./Desktop/photo3.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 310px;
+  position: relative;
+  left: 20.2%;
+  top: 85px;
+}
+
+.second_group_section4_photo {
+  display: flex;
+}
+
+.section4_photo4 {
+  background-image: url(./Desktop/photo4.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 310px;
+  position: relative;
+  left: 17.35%;
+  top: 105px;
+}
+
+.section4_photo5 {
+  background-image: url(./Desktop/photo5.png);
+  background-repeat: no-repeat;
+  width: 620px;
+  height: 310px;
+  position: relative;
+  left: 18.8%;
+  top: 105px;
+}
+
+.third_group_section4_photo {
+  display: flex;
+}
+
+.section4_photo6 {
+  background-image: url(./Desktop/photo6.png);
+  background-repeat: no-repeat;
+  width: 620px;
+  height: 310px;
+  position: relative;
+  left: 17.4%;
+  top: 125px;
+}
+
+.section4_photo7 {
+  background-image: url(./Desktop/photo7.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 310px;
+  position: relative;
+  left: 18.8%;
+  top: 125px;
+}
+
+.create_activity2 {
+  width: 400px;
+  position: relative;
+  left: 37.6%;
+  top: 212px;
+  font-size: 28.42px;
+  font-weight: bolder;
+}
+
+.search-bar_text1 {
+  width: 500px;
+  position: relative;
+  left: 40.5%;
+  top: 262px;
+  font-size: 16.8px;
+  color: silver;
+}
+
+.search-bar_box {
+  display: flex;
+}
+
+.search-bar_text2 {
+  width: 300px;
+  height: 40px;
+  position: relative;
+  line-height: 43px;
+  left: 33%;
+  top: 283px;
+  font-size: 13px;
+  border: 2px solid silver;
+}
+.search-bar_text2 .search-bar_text2_content {
+  margin-left: 16px;
+  color: silver;
+}
+
+.search-bar_text3 {
+  width: 170px;
+  height: 40px;
+  position: relative;
+  line-height: 44px;
+  left: 33.9%;
+  top: 283px;
+  border-radius: 30px 30px 30px 30px;
+  background-color: #FF4E50;
+}
+.search-bar_text3 .search-bar_text3_content {
+  color: white;
+  font-size: 16px;
+  margin-left: 27px;
+}
+
+.bottom_line {
+  border: 1px solid #FF4E50;
+  margin-top: 383px;
+}
+
+.footer {
+  width: 100%;
+  height: 250px;
+  display: grid;
+  grid-template-columns: 252px 238px 238px 382px;
+  grid-template-rows: 37px 18px 17px 25px 26px 27px 25px 27px;
+}
+.footer .object1 {
+  grid-column: 2;
+  grid-row: 2;
+  font-size: 16px;
+  color: #FF4E50;
+}
+.footer .object2 {
+  grid-column: 3;
+  grid-row: 2;
+  font-size: 15px;
+  font-weight: bolder;
+}
+.footer .object3 {
+  grid-column: 4;
+  grid-row: 2;
+  font-size: 15px;
+  font-weight: bolder;
+  margin-top: 0.2%;
+}
+.footer .object4 {
+  background-image: url(./Desktop/desktop-logo-text.png);
+  background-repeat: no-repeat;
+  grid-column: 5;
+  grid-row: 2;
+  margin-top: 0.6%;
+}
+.footer .object5 {
+  background-image: url(./Desktop/desktop-bottom-logo.png);
+  background-repeat: no-repeat;
+  grid-column: 5;
+  grid-row-start: 3;
+  grid-row-end: 5;
+  margin-top: 0.6%;
+  position: relative;
+  right: 29px;
+}
+.footer .object6 {
+  grid-column: 3;
+  grid-row: 4;
+  font-size: 13px;
+  color: silver;
+}
+.footer .object7 {
+  grid-column: 3;
+  grid-row: 5;
+  font-size: 13px;
+  color: silver;
+}
+.footer .object8 {
+  grid-column: 3;
+  grid-row: 6;
+  font-size: 13px;
+  color: silver;
+}
+.footer .object9 {
+  grid-column: 3;
+  grid-row: 7;
+  font-size: 13px;
+  color: silver;
+}
+.footer .object10 {
+  grid-column: 3;
+  grid-row: 8;
+  font-size: 13.4px;
+  color: silver;
+}
+.footer .object11 {
+  grid-column: 3;
+  grid-row: 9;
+  font-size: 13px;
+  color: silver;
+}
+
+@media screen and (max-width: 768px) and (min-width: 320px) {
+  .main_box {
+    width: 768px;
+    font-family: "Libre Franklin", sans-serif;
+  }
+  .header {
+    background-image: url(./Desktop/desktop_party_photo.png);
+    width: 768px;
+    height: 700px;
+    background-position: -336px 0px;
+  }
+  .dreamshare {
+    color: white;
+    font-weight: bolder;
+    position: relative;
+    font-size: 20px;
+    left: 6.4%;
+    top: 6.6%;
+    width: 300px;
+  }
+  .login {
+    color: white;
+    position: relative;
+    font-size: 15px;
+    float: right;
+    right: 21%;
+    top: 3.8%;
+  }
+  .signup {
+    width: 90px;
+    height: 35px;
+    border: 2px solid white;
+    border-radius: 30px 30px 30px 30px;
+    line-height: 34px;
+    text-align: center;
+    color: white;
+    position: relative;
+    float: right;
+    font-size: 16px;
+    font-weight: lighter;
+    right: 1.2%;
+    top: 2.4%;
+  }
+  .share_your_dream {
+    width: 510px;
+    height: 110px;
+    background-image: url(/CSS/Desktop/SHARE\ YOUR.png);
+    background-repeat: no-repeat;
+    position: relative;
+    left: 19.9%;
+    top: 30.3%;
+  }
+  h2 {
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    position: relative;
+    font-size: 22.8px;
+    top: 34.6%;
+  }
+  h3 {
+    display: block;
+    width: 200px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 15.4px;
+    position: relative;
+    top: 41.1%;
+    border-color: #FF4E50;
+  }
+  .holiday {
+    width: 228px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 43px;
+    font-size: 16.4px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #FF4E50;
+    position: relative;
+    left: 35.2%;
+    top: 39.2%;
+  }
+  .how_dreamshare_works {
+    width: 380px;
+    height: 100px;
+    margin: auto;
+    background-image: url(/CSS/Tablet/tablet\ How\ Dreamshare\ works.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    position: relative;
+    top: 98px;
+    left: 47px;
+  }
+  .f_photo_section_2 {
+    background-image: url(./Desktop/desktop-laptop-photo.png);
+    background-repeat: no-repeat;
+    width: 236px;
+    height: 500px;
+    position: relative;
+    top: 56px;
+    left: 10px;
+  }
+  .section2_photo1_text1 {
+    width: 70px;
+    height: 20px;
+    background-color: #FF4E50;
+    line-height: 24.2px;
+    font-size: 11.4px;
+    word-spacing: 8px;
+    font-weight: lighter;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 41%;
+    left: 8.4%;
+  }
+  .section2_photo1_text2 {
+    width: 200px;
+    height: 100px;
+    background-image: url(./Tablet/tablet\ Sed\ leo\ enim\,\ condim.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 49.4%;
+    left: 8.4%;
+  }
+  .section2_photo1_text3 {
+    width: 270px;
+    height: 100px;
+    background-image: url(/CSS/Tablet/tablet\ Quisque\ libero\ liber.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 41.8%;
+    left: 8.4%;
+  }
+  .s_photo_section_2 {
+    background-image: url(./Desktop/desktop-car-photo.png);
+    background-repeat: no-repeat;
+    width: 236px;
+    height: 500px;
+    position: absolute;
+    top: 856px;
+    left: 266px;
+  }
+  .section2_photo2_text1 {
+    width: 70px;
+    height: 20px;
+    background-color: #FF4E50;
+    line-height: 24px;
+    font-size: 11.4px;
+    word-spacing: 8px;
+    font-weight: lighter;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 51%;
+    left: 8.4%;
+  }
+  .section2_photo2_text2 {
+    width: 200px;
+    height: 100px;
+    background-image: url(./Tablet/tablet\ Morbi\ velit\ risus.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 53.4%;
+    left: 8.8%;
+  }
+  .section2_photo2_text3 {
+    width: 270px;
+    height: 100px;
+    background-image: url(./Tablet/tablet\ Nulla\ venenatis\ temp.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 44.6%;
+    left: 8.8%;
+  }
+  .t_photo_section_2 {
+    background-image: url(./Desktop/desktop-bitch-photo.png);
+    background-repeat: no-repeat;
+    width: 236px;
+    height: 500px;
+    float: right;
+    position: absolute;
+    top: 855px;
+    right: 10px;
+  }
+  .section2_photo3_text1 {
+    width: 70px;
+    height: 20px;
+    background-color: #FF4E50;
+    line-height: 24px;
+    font-size: 11.4px;
+    word-spacing: 8px;
+    font-weight: lighter;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 41.2%;
+    left: 8.4%;
+  }
+  .section2_photo3_text2 {
+    width: 200px;
+    height: 100px;
+    background-image: url(./Tablet/tablet\ Sed\ leo\ enim\,\ condim.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 49.8%;
+    left: 8.4%;
+    line-height: 2;
+  }
+  .section2_photo3_text3 {
+    width: 220px;
+    height: 100px;
+    background-image: url(./Tablet/tablet\ Quisque\ libero\ liber.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 42%;
+    left: 8.4%;
+  }
+  .meet_partner {
+    background-image: url(./Tablet/tablet\ Meet\ a\ partner\ for\ y.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 100px;
+    position: relative;
+    left: 23.2%;
+    top: 53px;
+  }
+  .section3_photos {
+    display: flex;
+    height: 140px;
+  }
+  .f_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-1st-dude.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 12px;
+    left: 25.5%;
+  }
+  .s_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-1st-dudina.png);
+    background-repeat: no-repeat;
+    float: right;
+    position: relative;
+    top: 271px;
+    left: 0.5%;
+  }
+  .t_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-2nd-dudina.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 12px;
+    left: 8.8%;
+  }
+  .fourth_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-2nd-dude.png);
+    background-repeat: no-repeat;
+    float: right;
+    position: relative;
+    top: 271px;
+    left: -124px;
+  }
+  .section3_text1 {
+    display: flex;
+  }
+  .section3_text1-1 {
+    position: relative;
+    top: 9.5px;
+    left: 26%;
+    font-weight: bolder;
+    font-size: 15.4px;
+  }
+  .section3_text1-2 {
+    position: relative;
+    top: 269px;
+    left: 11.8%;
+    font-weight: bolder;
+    font-size: 15.4px;
+  }
+  .section3_text1-3 {
+    position: relative;
+    top: 9.5px;
+    left: 32.7%;
+    font-weight: bolder;
+    font-size: 15.4px;
+  }
+  .section3_text1-4 {
+    position: relative;
+    top: 269px;
+    left: 18%;
+    font-weight: bolder;
+    font-size: 15.4px;
+  }
+  .section3_text2 {
+    display: flex;
+    text-align: center;
+  }
+  .section3_text2-1 {
+    width: 420px;
+    text-align: center;
+    position: relative;
+    top: 29px;
+    left: 138px;
+    font-size: 13.3px;
+    line-height: 16px;
+    color: silver;
+  }
+  .section3_text2-2 {
+    width: 240px;
+    position: absolute;
+    top: 1847.5px;
+    left: 137px;
+    font-size: 13.3px;
+    line-height: 16px;
+    color: silver;
+  }
+  .section3_text2-3 {
+    width: 460px;
+    height: 150px;
+    background-image: url(./Tablet/tablet\ Living\ in\ Athens\,\ Gr.png);
+    background-repeat: no-repeat;
+    position: relative;
+    left: 163px;
+    top: 36px;
+  }
+  .section3_text2-4 {
+    width: 500px;
+    position: relative;
+    top: 289px;
+    left: -117px;
+    text-align: center;
+    font-size: 13.3px;
+    line-height: 15px;
+    color: silver;
+  }
+  .partners {
+    width: 180px;
+    height: 40px;
+    border: 2px solid;
+    text-align: center;
+    line-height: 38px;
+    color: #FF4E50;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 15px;
+    font-weight: bolder;
+    position: relative;
+    left: 38.6%;
+    top: 207.5px;
+  }
+  .discover_activitys {
+    width: 500px;
+    position: relative;
+    left: 27.5%;
+    top: 305px;
+    color: transparent;
+    background-image: url(./Tablet/Discover\ holiday\ act.png);
+    background-repeat: no-repeat;
+  }
+  .first_group_section4_photo {
+    display: flex;
+    margin-top: 246px;
+    position: relative;
+    right: 16%;
+  }
+  .section4_photo1 {
+    background-image: url(./Tablet/tablet\ Sport.png);
+    background-repeat: no-repeat;
+    width: 238px;
+    height: 310px;
+    position: relative;
+    left: 17.3%;
+    top: 82px;
+  }
+  .section4_photo2 {
+    background-image: url(./Tablet/tablet\ Healath.png);
+    background-repeat: no-repeat;
+    width: 236px;
+    height: 310px;
+    position: relative;
+    left: 19.6%;
+    top: 82px;
+  }
+  .section4_photo3 {
+    background-image: url(./Tablet/tablet\ Extreme.png);
+    background-repeat: no-repeat;
+    width: 236px;
+    height: 310px;
+    position: relative;
+    left: 22.3%;
+    top: 82px;
+  }
+  .second_group_section4_photo {
+    display: flex;
+    position: relative;
+    right: 16%;
+  }
+  .section4_photo4 {
+    background-image: url(./Tablet/tablet\ Games.png);
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 310px;
+    position: relative;
+    left: 17.35%;
+    top: 102px;
+  }
+  .section4_photo5 {
+    background-image: url(./Tablet/tablet\ Culture.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 310px;
+    position: relative;
+    left: 19.4%;
+    top: 102px;
+  }
+  .third_group_section4_photo {
+    display: flex;
+    position: relative;
+    right: 16%;
+  }
+  .section4_photo6 {
+    background-image: url(./Tablet/tablet\ Culture\ Copy.png);
+    background-repeat: no-repeat;
+    width: 620px;
+    height: 310px;
+    position: relative;
+    left: 17.3%;
+    top: 122px;
+  }
+  .section4_photo7 {
+    background-image: url(./Tablet/tablet\ Games\ Copy.png);
+    background-repeat: no-repeat;
+    width: 276px;
+    height: 310px;
+    position: relative;
+    left: 14.7%;
+    top: 122px;
+  }
+  .create_activity2 {
+    width: 400px;
+    position: relative;
+    left: 30.4%;
+    top: 215px;
+    font-size: 24.2px;
+    font-weight: bolder;
+  }
+  .search-bar_text1 {
+    width: 500px;
+    position: relative;
+    left: 32.3%;
+    top: 265px;
+    font-size: 16.8px;
+    color: silver;
+  }
+  .search-bar_box {
+    display: flex;
+  }
+  .search-bar_text2 {
+    width: 300px;
+    height: 40px;
+    position: relative;
+    line-height: 43px;
+    left: 18.4%;
+    top: 286px;
+    font-size: 13px;
+    border: 2px solid silver;
+  }
+  .search-bar_text2 .search-bar_text2_content {
+    margin-left: 15px;
+    color: silver;
+  }
+  .search-bar_text3 {
+    width: 170px;
+    height: 40px;
+    position: relative;
+    line-height: 44px;
+    left: 20%;
+    top: 286px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #FF4E50;
+  }
+  .search-bar_text3 .search-bar_text3_content {
+    color: white;
+    font-size: 16px;
+    margin-left: 26px;
+  }
+  .bottom_line {
+    border: 1px solid #FF4E50;
+    margin-top: 387px;
+  }
+  .footer {
+    width: 100%;
+    height: 250px;
+    display: grid;
+    grid-template-columns: 40px 226px 170px 212px;
+    grid-template-rows: 36.2px 18px 17px 25px 26px 27px 25px 27px;
+  }
+  .footer .object1 {
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 16.4px;
+    color: #FF4E50;
+  }
+  .footer .object2 {
+    grid-column: 3;
+    grid-row: 2;
+    font-size: 15.2px;
+    font-weight: bolder;
+  }
+  .footer .object3 {
+    grid-column: 4;
+    grid-row: 2;
+    font-size: 14.5px;
+    font-weight: bolder;
+    margin-top: 0.2%;
+  }
+  .footer .object4 {
+    background-image: url(./Desktop/desktop-logo-text.png);
+    background-repeat: no-repeat;
+    grid-column: 5;
+    grid-row: 2;
+    margin-top: 1.5%;
+  }
+  .footer .object5 {
+    background-image: url(./Desktop/desktop-bottom-logo.png);
+    background-repeat: no-repeat;
+    grid-column: 5;
+    grid-row-start: 3;
+    grid-row-end: 5;
+    margin-top: 1.5%;
+    position: relative;
+    right: 29px;
+  }
+  .footer .object6 {
+    grid-column: 3;
+    grid-row: 4;
+    font-size: 13px;
+    color: silver;
+  }
+  .footer .object7 {
+    grid-column: 3;
+    grid-row: 5;
+    font-size: 13px;
+    color: silver;
+  }
+  .footer .object8 {
+    grid-column: 3;
+    grid-row: 6;
+    font-size: 13px;
+    color: silver;
+  }
+  .footer .object9 {
+    grid-column: 3;
+    grid-row: 7;
+    font-size: 13px;
+    color: silver;
+  }
+  .footer .object10 {
+    grid-column: 3;
+    grid-row: 8;
+    font-size: 13.4px;
+    color: silver;
+  }
+  .footer .object11 {
+    grid-column: 3;
+    grid-row: 9;
+    font-size: 13px;
+    color: silver;
+  }
+}
+@media screen and (max-width: 320px) and (min-width: 0px) {
+  .main_box {
+    width: 320px;
+    font-family: "Libre Franklin", sans-serif;
+  }
+  .header {
+    background-image: url(./Mobile/mobile_b_photo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    left: 1.6%;
+    width: 315px;
+    height: 540px;
+    position: relative;
+  }
+  .dreamshare {
+    color: white;
+    font-weight: 650;
+    position: relative;
+    font-size: 20px;
+    left: 28.7%;
+    top: 28.4%;
+    width: 200px;
+  }
+  .login {
+    color: white;
+    position: relative;
+    font-weight: lighter;
+    font-size: 15px;
+    float: right;
+    right: 62%;
+    top: 1.3%;
+  }
+  .signup {
+    width: 90px;
+    height: 37px;
+    border: 2px solid white;
+    border-radius: 30px 30px 30px 30px;
+    line-height: 34px;
+    text-align: center;
+    color: white;
+    position: relative;
+    float: right;
+    font-size: 16px;
+    right: 13%;
+    top: -0.8%;
+  }
+  .share_your_dream {
+    width: 270px;
+    height: 110px;
+    background-image: url(./Mobile/mobile\ SHARE\ YOUR.png);
+    background-repeat: no-repeat;
+    position: relative;
+    left: 9.5%;
+    top: 34.6%;
+  }
+  h2 {
+    width: 250px;
+    color: white;
+    text-align: center;
+    font-weight: lighter;
+    position: relative;
+    font-size: 17px;
+    top: 27.8%;
+    left: 12.1%;
+    line-height: 1.4;
+  }
+  h3 {
+    display: block;
+    width: 200px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 15.5px;
+    position: relative;
+    top: 41.1%;
+    border-color: #FF4E50;
+  }
+  .holiday {
+    width: 277px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 42px;
+    font-size: 16px;
+    border-radius: 40px 40px 40px 40px;
+    background-color: #FF4E50;
+    position: relative;
+    left: 8.6%;
+    top: 30.6%;
+  }
+  .how_dreamshare_works {
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    background-image: url(./Mobile/mobile\ How\ Dreamshare\ works.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    position: relative;
+    top: 38px;
+    left: 7px;
+  }
+  .f_photo_section_2 {
+    background-image: url(./Mobile/mobile_laptop_photo.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 240px;
+    position: relative;
+    top: -24px;
+  }
+  .section2_photo1_text1 {
+    width: 70px;
+    height: 20px;
+    background-color: #FF4E50;
+    line-height: 24.2px;
+    font-size: 11.4px;
+    word-spacing: 8px;
+    font-weight: lighter;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 26.6%;
+    left: 7%;
+  }
+  .section2_photo1_text2 {
+    width: 200px;
+    height: 100px;
+    background-image: url(./Mobile/mobile_section2_photo1_text1.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 44.2%;
+    left: 6.5%;
+  }
+  .section2_photo1_text3 {
+    width: 270px;
+    height: 100px;
+    background-image: url(./Mobile/mobile_section2_photo1_text2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 26.3%;
+    left: 6.6%;
+  }
+  .s_photo_section_2 {
+    background-image: url(./Mobile/mobile_car_photo.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 240px;
+    position: absolute;
+    top: 866px;
+    left: 10px;
+  }
+  .section2_photo2_text1 {
+    width: 70px;
+    height: 20px;
+    background-color: #FF4E50;
+    line-height: 24px;
+    font-size: 11.4px;
+    word-spacing: 8px;
+    font-weight: lighter;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 39.6%;
+    left: 6.6%;
+  }
+  .section2_photo2_text2 {
+    width: 200px;
+    height: 100px;
+    background-image: url(./Mobile/mobile_section2_photo2_text1.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 50.4%;
+    left: 7%;
+  }
+  .section2_photo2_text3 {
+    width: 270px;
+    height: 100px;
+    background-image: url(./Mobile/mobile_section2_photo2_text2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 26.2%;
+    left: 7%;
+  }
+  .t_photo_section_2 {
+    background-image: url(./Mobile/mobile_bitch_photo.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 240px;
+    float: right;
+    position: absolute;
+    top: 1115px;
+    left: 10px;
+  }
+  .section2_photo3_text1 {
+    width: 70px;
+    height: 20px;
+    background-color: #FF4E50;
+    line-height: 24px;
+    font-size: 11.4px;
+    word-spacing: 8px;
+    font-weight: lighter;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 27%;
+    left: 6.6%;
+  }
+  .section2_photo3_text2 {
+    width: 200px;
+    height: 100px;
+    background-image: url(./Mobile/mobile_section2_photo1_text1.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 44.5%;
+    left: 6.6%;
+  }
+  .section2_photo3_text3 {
+    width: 270px;
+    height: 100px;
+    background-image: url(./Mobile/mobile_section2_photo1_text2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 26.6%;
+    left: 6.6%;
+  }
+  .meet_partner {
+    background-image: url(./Mobile/mobile\ Meet\ a\ partner\ for\ y.png);
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 54px;
+    position: relative;
+    left: 8.9%;
+    top: 52px;
+    margin-top: 145%;
+  }
+  .section3_photos {
+    display: block;
+  }
+  .f_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-1st-dude.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 44%;
+    left: 31.3%;
+  }
+  .s_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-1st-dudina.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 231%;
+    left: -6.4%;
+  }
+  .t_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-2nd-dudina.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 59%;
+    left: 31.3%;
+  }
+  .fourth_photo_section_3 {
+    width: 200px;
+    height: 200px;
+    background-image: url(./Desktop/desktop-2nd-dude.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 246%;
+    left: -6.3%;
+  }
+  .section3_text1 {
+    display: block;
+  }
+  .section3_text1-1 {
+    width: 120px;
+    position: relative;
+    top: 60px;
+    left: 33.4%;
+    font-weight: bolder;
+    font-size: 14.5px;
+  }
+  .section3_text1-2 {
+    width: 120px;
+    position: relative;
+    top: 503px;
+    left: 34.1%;
+    font-weight: bolder;
+    font-size: 14.5px;
+  }
+  .section3_text1-3 {
+    width: 120px;
+    position: relative;
+    top: 245px;
+    left: 37%;
+    font-weight: bolder;
+    font-size: 14.5px;
+  }
+  .section3_text1-4 {
+    width: 170px;
+    color: transparent;
+    background-image: url(./Mobile/mobile\ Christopher\ Pierce.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 690px;
+    left: 28.8%;
+  }
+  .section3_text2 {
+    display: block;
+  }
+  .section3_text2-1 {
+    width: 240px;
+    height: 30px;
+    color: transparent;
+    background-image: url(./Mobile/mobile_bradley_text2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 7.6px;
+    left: 14%;
+  }
+  .section3_text2-2 {
+    width: 240px;
+    height: 40px;
+    color: transparent;
+    background-image: url(./Mobile/mobile_diana_text2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 204px;
+    left: 14%;
+  }
+  .section3_text2-3 {
+    width: 240px;
+    height: 30px;
+    color: transparent;
+    background-image: url(./Mobile/mobile_marie_text2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 399px;
+    left: 15.6%;
+  }
+  .section3_text2-4 {
+    width: 240px;
+    height: 30px;
+    color: transparent;
+    background-image: url(./Mobile/mobile_chris_text2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    top: 590px;
+    left: 15%;
+  }
+  .partners {
+    width: 280px;
+    height: 40px;
+    border: 2px solid;
+    text-align: center;
+    line-height: 38px;
+    color: #FF4E50;
+    border-radius: 30px 30px 30px 30px;
+    font-size: 15px;
+    font-weight: bolder;
+    position: relative;
+    left: 6.3%;
+    bottom: 37px;
+    margin-top: 415px;
+  }
+  .discover_activitys {
+    width: 190px;
+    position: relative;
+    left: 20.5%;
+    top: 246px;
+    color: transparent;
+    background-image: url(./Mobile/mobile\ Discover\ holiday\ act.png);
+    background-repeat: no-repeat;
+  }
+  .first_group_section4_photo {
+    display: block;
+  }
+  .section4_photo1 {
+    background-image: url(./Mobile/mobile_section4_photo1.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 19%;
+    top: -21px;
+  }
+  .section4_photo2 {
+    background-image: url(./Mobile/mobile_section4_photo2.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 19%;
+    top: -11px;
+  }
+  .section4_photo3 {
+    background-image: url(./Mobile/mobile_section4_photo3.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 19%;
+    top: -1px;
+  }
+  .second_group_section4_photo {
+    display: block;
+  }
+  .section4_photo4 {
+    background-image: url(./Mobile/mobile_section4_photo4.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 19%;
+    top: 9px;
+  }
+  .section4_photo5 {
+    background-image: url(./Mobile/mobile_section4_photo5.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 19%;
+    top: 19px;
+  }
+  .third_group_section4_photo {
+    display: block;
+  }
+  .section4_photo6 {
+    background-image: url(./Mobile/mobile_section4_photo6.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 19%;
+    top: 29px;
+  }
+  .section4_photo7 {
+    background-image: url(./Mobile/mobile_section4_photo7.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    left: 19%;
+    top: 39px;
+  }
+  .create_activity2 {
+    width: 230px;
+    position: relative;
+    left: 14.2%;
+    top: 73px;
+    line-height: 27px;
+    font-size: 24.5px;
+    font-weight: bolder;
+    text-align: center;
+  }
+  .search-bar_text1 {
+    width: 280px;
+    position: relative;
+    left: 7.5%;
+    top: 90px;
+    font-size: 16.9px;
+    color: silver;
+  }
+  .search-bar_box {
+    display: block;
+  }
+  .search-bar_text2 {
+    width: 280px;
+    height: 39px;
+    position: relative;
+    line-height: 41px;
+    left: 6.7%;
+    top: 103px;
+    font-size: 13px;
+    border: 1px solid silver;
+  }
+  .search-bar_text2 .search-bar_text2_content {
+    margin-left: 12px;
+    color: silver;
+  }
+  .search-bar_text3 {
+    width: 280px;
+    height: 40px;
+    position: relative;
+    line-height: 42px;
+    text-align: center;
+    left: 6.4%;
+    top: 113px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: #FF4E50;
+  }
+  .search-bar_text3 .search-bar_text3_content {
+    color: white;
+    font-size: 15.4px;
+    margin-left: 6.6px;
+  }
+  .bottom_line {
+    border: 1px solid #FF4E50;
+    margin-top: 153px;
+  }
+  .footer {
+    width: 100%;
+    height: 250px;
+    display: grid;
+    grid-template-columns: 66px 18px 17px 12px 11px 20px 30px 35px 10px 70px;
+    grid-template-rows: 20px 18px 15px 25px 26px 25px 25px 21px 50px;
+  }
+  .footer .object1 {
+    grid-column: 4;
+    grid-row: 2;
+    font-size: 17px;
+    color: #FF4E50;
+  }
+  .footer .object2 {
+    grid-column: 6;
+    grid-row: 4;
+    font-size: 15px;
+    font-weight: bolder;
+    position: relative;
+    left: 2px;
+  }
+  .footer .object3 {
+    grid-column: 6;
+    grid-row: 7;
+    font-size: 15px;
+    font-weight: bolder;
+    position: relative;
+    left: 4px;
+  }
+  .footer .object4 {
+    background-image: url(./Desktop/desktop-logo-text.png);
+    background-repeat: no-repeat;
+    grid-column-start: 6;
+    grid-column-end: 9;
+    grid-row: 8;
+    position: relative;
+    right: 4px;
+    top: 5px;
+  }
+  .footer .object5 {
+    background-image: url(./Desktop/desktop-bottom-logo.png);
+    background-repeat: no-repeat;
+    grid-column-start: 6;
+    grid-column-end: 12;
+    grid-row-start: 9;
+    grid-row-end: 10;
+    position: relative;
+    right: 29px;
+    margin-left: 10px;
+  }
+  .footer .object6 {
+    grid-column: 2;
+    grid-row: 5;
+    font-size: 13px;
+    color: silver;
+    position: relative;
+    bottom: 2px;
+  }
+  .footer .object7 {
+    grid-column: 5;
+    grid-row: 5;
+    font-size: 13px;
+    color: silver;
+    position: relative;
+    bottom: 3px;
+    left: 2px;
+  }
+  .footer .object8 {
+    grid-column: 8;
+    grid-row: 5;
+    font-size: 13px;
+    color: silver;
+    position: relative;
+    bottom: 3px;
+    left: 3px;
+  }
+  .footer .object9 {
+    grid-column: 10;
+    grid-row: 5;
+    font-size: 13px;
+    color: silver;
+    position: relative;
+    bottom: 2px;
+    left: 6px;
+  }
+  .footer .object10 {
+    grid-column-start: 3;
+    grid-column-end: 11;
+    grid-row: 6;
+    font-size: 13.4px;
+    color: silver;
+    position: relative;
+    bottom: 3px;
+    right: 1px;
+  }
+  .footer .object11 {
+    grid-column: 9;
+    grid-row: 6;
+    font-size: 13px;
+    color: silver;
+    position: relative;
+    bottom: 2px;
+  }
+}/*# sourceMappingURL=main.css.map */
